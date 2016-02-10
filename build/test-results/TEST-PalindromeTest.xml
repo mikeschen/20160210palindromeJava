@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PalindromeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-10T19:36:52" hostname="epicodus-64.local" time="0.001">
+<testsuite name="PalindromeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-02-10T21:52:04" hostname="epicodus-64.local" time="0.002">
   <properties/>
-  <testcase name="palindromeChecker" classname="PalindromeTest" time="0.001"/>
+  <testcase name="palindromeChecker_true" classname="PalindromeTest" time="0.002"/>
+  <testcase name="palindromeChecker_removeSPaces" classname="PalindromeTest" time="0.0"/>
+  <testcase name="palindromeChecker_numbers" classname="PalindromeTest" time="0.0"/>
+  <testcase name="palindromeChecker_false" classname="PalindromeTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
